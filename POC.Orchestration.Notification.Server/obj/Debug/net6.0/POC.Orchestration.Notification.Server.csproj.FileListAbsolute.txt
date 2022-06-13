@@ -1,0 +1,14 @@
+C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Notification.Server\bin\Debug\net6.0\POC.Orchestration.Notification.Server.exe
+C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Notification.Server\bin\Debug\net6.0\POC.Orchestration.Notification.Server.deps.json
+C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Notification.Server\bin\Debug\net6.0\POC.Orchestration.Notification.Server.runtimeconfig.json
+C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Notification.Server\bin\Debug\net6.0\POC.Orchestration.Notification.Server.dll
+C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Notification.Server\bin\Debug\net6.0\ref\POC.Orchestration.Notification.Server.dll
+C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Notification.Server\bin\Debug\net6.0\POC.Orchestration.Notification.Server.pdb
+C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Notification.Server\obj\Debug\net6.0\POC.Orchestration.Notification.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Notification.Server\obj\Debug\net6.0\POC.Orchestration.Notification.Server.AssemblyInfoInputs.cache
+C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Notification.Server\obj\Debug\net6.0\POC.Orchestration.Notification.Server.AssemblyInfo.cs
+C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Notification.Server\obj\Debug\net6.0\POC.Orchestration.Notification.Server.csproj.CoreCompileInputs.cache
+C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Notification.Server\obj\Debug\net6.0\POC.Orchestration.Notification.Server.dll
+C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Notification.Server\obj\Debug\net6.0\ref\POC.Orchestration.Notification.Server.dll
+C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Notification.Server\obj\Debug\net6.0\POC.Orchestration.Notification.Server.pdb
+C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Notification.Server\obj\Debug\net6.0\POC.Orchestration.Notification.Server.genruntimeconfig.cache

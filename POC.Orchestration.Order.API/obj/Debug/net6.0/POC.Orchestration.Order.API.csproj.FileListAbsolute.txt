@@ -1,0 +1,6 @@
+C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Order.API\obj\Debug\net6.0\POC.Orchestration.Order.API.csproj.AssemblyReference.cache
+C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Order.API\obj\Debug\net6.0\POC.Orchestration.Order.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Order.API\obj\Debug\net6.0\POC.Orchestration.Order.API.AssemblyInfoInputs.cache
+C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Order.API\obj\Debug\net6.0\POC.Orchestration.Order.API.AssemblyInfo.cs
+C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Order.API\obj\Debug\net6.0\POC.Orchestration.Order.API.csproj.CoreCompileInputs.cache
+C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Order.API\obj\Debug\net6.0\POC.Orchestration.Order.API.MvcApplicationPartsAssemblyInfo.cache

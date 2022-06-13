@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "877b5c00-8643-4bcd-9afd-27ed6fca8eee": {
+      "ProjectGuid": "877b5c00-8643-4bcd-9afd-27ed6fca8eee",
+      "DisplayName": "POC.Orchestration.Order.API",
+      "ColorIndex": 0
+    },
+    "fbff41b5-e7dc-47ed-9fa2-654c728b4d30": {
+      "ProjectGuid": "fbff41b5-e7dc-47ed-9fa2-654c728b4d30",
+      "DisplayName": "POC.Orchestration.Order.Service",
+      "ColorIndex": 1
+    },
+    "01d2b6a9-95b6-46b4-a21d-97d80f0038b9": {
+      "ProjectGuid": "01d2b6a9-95b6-46b4-a21d-97d80f0038b9",
+      "DisplayName": "POC.Orchestration.Payment.Server",
+      "ColorIndex": 2
+    },
+    "4dd0dab5-c051-4789-bb7c-5b06bc527d3e": {
+      "ProjectGuid": "4dd0dab5-c051-4789-bb7c-5b06bc527d3e",
+      "DisplayName": "POC.Orchestration.Shipping.Server",
+      "ColorIndex": 3
+    },
+    "05319f62-5acd-4bcd-bc40-87c4d055f17c": {
+      "ProjectGuid": "05319f62-5acd-4bcd-bc40-87c4d055f17c",
+      "DisplayName": "POC.Orchestration.Notification.Server",
+      "ColorIndex": 4
+    },
+    "cfe50657-e1c6-4c97-b454-92280d7417fe": {
+      "ProjectGuid": "cfe50657-e1c6-4c97-b454-92280d7417fe",
+      "DisplayName": "POC.Orchestration.Events",
+      "ColorIndex": 5
+    },
+    "5839a2dc-95aa-4141-a4bd-8eae623a1461": {
+      "ProjectGuid": "5839a2dc-95aa-4141-a4bd-8eae623a1461",
+      "DisplayName": "POC.Orchestration.Infrastructure",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}
