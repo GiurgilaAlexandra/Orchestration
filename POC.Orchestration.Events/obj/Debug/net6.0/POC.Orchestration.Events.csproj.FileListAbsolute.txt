@@ -1,0 +1,12 @@
+C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Events\bin\Debug\net6.0\POC.Orchestration.Events.deps.json
+C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Events\bin\Debug\net6.0\POC.Orchestration.Events.dll
+C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Events\bin\Debug\net6.0\ref\POC.Orchestration.Events.dll
+C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Events\bin\Debug\net6.0\POC.Orchestration.Events.pdb
+C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Events\obj\Debug\net6.0\POC.Orchestration.Events.csproj.AssemblyReference.cache
+C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Events\obj\Debug\net6.0\POC.Orchestration.Events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Events\obj\Debug\net6.0\POC.Orchestration.Events.AssemblyInfoInputs.cache
+C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Events\obj\Debug\net6.0\POC.Orchestration.Events.AssemblyInfo.cs
+C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Events\obj\Debug\net6.0\POC.Orchestration.Events.csproj.CoreCompileInputs.cache
+C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Events\obj\Debug\net6.0\POC.Orchestration.Events.dll
+C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Events\obj\Debug\net6.0\ref\POC.Orchestration.Events.dll
+C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Events\obj\Debug\net6.0\POC.Orchestration.Events.pdb

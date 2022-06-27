@@ -4,14 +4,14 @@
     "C:\\Users\\mgiurgil\\source\\repos\\POC.Orchestration\\POC.Orchestration.Payment.Server\\POC.Orchestration.Payment.Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mgiurgil\\source\\repos\\POC.Orchestration\\POC.Orchestration.Payment.Server\\POC.Orchestration.Payment.Server.csproj": {
+    "C:\\Users\\mgiurgil\\source\\repos\\POC.Orchestration\\POC.Orchestration.Events\\POC.Orchestration.Events.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mgiurgil\\source\\repos\\POC.Orchestration\\POC.Orchestration.Payment.Server\\POC.Orchestration.Payment.Server.csproj",
-        "projectName": "POC.Orchestration.Payment.Server",
-        "projectPath": "C:\\Users\\mgiurgil\\source\\repos\\POC.Orchestration\\POC.Orchestration.Payment.Server\\POC.Orchestration.Payment.Server.csproj",
+        "projectUniqueName": "C:\\Users\\mgiurgil\\source\\repos\\POC.Orchestration\\POC.Orchestration.Events\\POC.Orchestration.Events.csproj",
+        "projectName": "POC.Orchestration.Events",
+        "projectPath": "C:\\Users\\mgiurgil\\source\\repos\\POC.Orchestration\\POC.Orchestration.Events\\POC.Orchestration.Events.csproj",
         "packagesPath": "C:\\Users\\mgiurgil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mgiurgil\\source\\repos\\POC.Orchestration\\POC.Orchestration.Payment.Server\\obj\\",
+        "outputPath": "C:\\Users\\mgiurgil\\source\\repos\\POC.Orchestration\\POC.Orchestration.Events\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mgiurgil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -42,6 +42,139 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mgiurgil\\source\\repos\\POC.Orchestration\\POC.Orchestration.Infrastructure\\POC.Orchestration.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mgiurgil\\source\\repos\\POC.Orchestration\\POC.Orchestration.Infrastructure\\POC.Orchestration.Infrastructure.csproj",
+        "projectName": "POC.Orchestration.Infrastructure",
+        "projectPath": "C:\\Users\\mgiurgil\\source\\repos\\POC.Orchestration\\POC.Orchestration.Infrastructure\\POC.Orchestration.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\mgiurgil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mgiurgil\\source\\repos\\POC.Orchestration\\POC.Orchestration.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mgiurgil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://allshareebv.pkgs.visualstudio.com/_packaging/Allshare/nuget/v3/index.json": {},
+          "https://allshareebv.pkgs.visualstudio.com/_packaging/AllshareOld/nuget/v3/index.json": {},
+          "https://allshareebv.pkgs.visualstudio.com/infrastructure/_packaging/allshare-infra/nuget/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mgiurgil\\source\\repos\\POC.Orchestration\\POC.Orchestration.Payment.Server\\POC.Orchestration.Payment.Server.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mgiurgil\\source\\repos\\POC.Orchestration\\POC.Orchestration.Payment.Server\\POC.Orchestration.Payment.Server.csproj",
+        "projectName": "POC.Orchestration.Payment.Server",
+        "projectPath": "C:\\Users\\mgiurgil\\source\\repos\\POC.Orchestration\\POC.Orchestration.Payment.Server\\POC.Orchestration.Payment.Server.csproj",
+        "packagesPath": "C:\\Users\\mgiurgil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mgiurgil\\source\\repos\\POC.Orchestration\\POC.Orchestration.Payment.Server\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mgiurgil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://allshareebv.pkgs.visualstudio.com/_packaging/Allshare/nuget/v3/index.json": {},
+          "https://allshareebv.pkgs.visualstudio.com/_packaging/AllshareOld/nuget/v3/index.json": {},
+          "https://allshareebv.pkgs.visualstudio.com/infrastructure/_packaging/allshare-infra/nuget/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\mgiurgil\\source\\repos\\POC.Orchestration\\POC.Orchestration.Events\\POC.Orchestration.Events.csproj": {
+                "projectPath": "C:\\Users\\mgiurgil\\source\\repos\\POC.Orchestration\\POC.Orchestration.Events\\POC.Orchestration.Events.csproj"
+              },
+              "C:\\Users\\mgiurgil\\source\\repos\\POC.Orchestration\\POC.Orchestration.Infrastructure\\POC.Orchestration.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\mgiurgil\\source\\repos\\POC.Orchestration\\POC.Orchestration.Infrastructure\\POC.Orchestration.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
