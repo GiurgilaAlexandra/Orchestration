@@ -3,3 +3,15 @@ C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Order.Service
 C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Order.Service\obj\Debug\net6.0\POC.Orchestration.Order.Service.AssemblyInfoInputs.cache
 C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Order.Service\obj\Debug\net6.0\POC.Orchestration.Order.Service.AssemblyInfo.cs
 C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Order.Service\obj\Debug\net6.0\POC.Orchestration.Order.Service.csproj.CoreCompileInputs.cache
+C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Order.Service\bin\Debug\net6.0\POC.Orchestration.Order.Service.deps.json
+C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Order.Service\bin\Debug\net6.0\POC.Orchestration.Order.Service.dll
+C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Order.Service\bin\Debug\net6.0\ref\POC.Orchestration.Order.Service.dll
+C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Order.Service\bin\Debug\net6.0\POC.Orchestration.Order.Service.pdb
+C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Order.Service\bin\Debug\net6.0\POC.Orchestration.Events.dll
+C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Order.Service\bin\Debug\net6.0\POC.Orchestration.Infrastructure.dll
+C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Order.Service\bin\Debug\net6.0\POC.Orchestration.Events.pdb
+C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Order.Service\bin\Debug\net6.0\POC.Orchestration.Infrastructure.pdb
+C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Order.Service\obj\Debug\net6.0\POC.Orchestration.Order.Service.csproj.CopyComplete
+C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Order.Service\obj\Debug\net6.0\POC.Orchestration.Order.Service.dll
+C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Order.Service\obj\Debug\net6.0\ref\POC.Orchestration.Order.Service.dll
+C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Order.Service\obj\Debug\net6.0\POC.Orchestration.Order.Service.pdb

@@ -1,5 +1,4 @@
 using Microsoft.AspNetCore.Mvc;
-using POC.Orchestration.Order.API.Models;
 using POC.Orchestration.Order.Service.Models;
 using POC.Orchestration.Order.Service.Sagas;
 

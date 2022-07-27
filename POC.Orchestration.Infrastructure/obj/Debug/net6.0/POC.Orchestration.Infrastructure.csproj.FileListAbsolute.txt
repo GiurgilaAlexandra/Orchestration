@@ -1,0 +1,11 @@
+C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Infrastructure\bin\Debug\net6.0\POC.Orchestration.Infrastructure.deps.json
+C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Infrastructure\bin\Debug\net6.0\POC.Orchestration.Infrastructure.dll
+C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Infrastructure\bin\Debug\net6.0\ref\POC.Orchestration.Infrastructure.dll
+C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Infrastructure\bin\Debug\net6.0\POC.Orchestration.Infrastructure.pdb
+C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Infrastructure\obj\Debug\net6.0\POC.Orchestration.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Infrastructure\obj\Debug\net6.0\POC.Orchestration.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Infrastructure\obj\Debug\net6.0\POC.Orchestration.Infrastructure.AssemblyInfo.cs
+C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Infrastructure\obj\Debug\net6.0\POC.Orchestration.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Infrastructure\obj\Debug\net6.0\POC.Orchestration.Infrastructure.dll
+C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Infrastructure\obj\Debug\net6.0\ref\POC.Orchestration.Infrastructure.dll
+C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Infrastructure\obj\Debug\net6.0\POC.Orchestration.Infrastructure.pdb

@@ -8,7 +8,6 @@ using POC.Orchestration.Payment.Server.Handlers;
 IHost host = Host.CreateDefaultBuilder(args)
     .ConfigureServices((hostContext, services) =>
     {
-        services.AddHostedService<PaymentService>();
         services.AddMassTransit(x =>
         {
             x.ConfigureRabbitmq();

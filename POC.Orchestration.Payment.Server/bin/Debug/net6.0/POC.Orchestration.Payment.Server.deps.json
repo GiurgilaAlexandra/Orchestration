@@ -8,9 +8,9 @@
     ".NETCoreApp,Version=v6.0": {
       "POC.Orchestration.Payment.Server/1.0.0": {
         "dependencies": {
-          "MassTransit.RabbitMQ": "8.0.3",
           "Microsoft.Extensions.Hosting": "6.0.1",
-          "POC.Orchestration.Events": "1.0.0"
+          "POC.Orchestration.Events": "1.0.0",
+          "POC.Orchestration.Infrastructure": "1.0.0"
         },
         "runtime": {
           "POC.Orchestration.Payment.Server.dll": {}
@@ -481,6 +481,14 @@
         "runtime": {
           "POC.Orchestration.Events.dll": {}
         }
+      },
+      "POC.Orchestration.Infrastructure/1.0.0": {
+        "dependencies": {
+          "MassTransit.RabbitMQ": "8.0.3"
+        },
+        "runtime": {
+          "POC.Orchestration.Infrastructure.dll": {}
+        }
       }
     }
   },
@@ -771,6 +779,11 @@
       "hashPath": "system.threading.channels.6.0.0.nupkg.sha512"
     },
     "POC.Orchestration.Events/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "POC.Orchestration.Infrastructure/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

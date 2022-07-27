@@ -2,6 +2,6 @@
 {
     public class OrderCreatedEvent
     {
-        public long OrderId { get; set; }
+        public int OrderId { get; set; }
     }
 }

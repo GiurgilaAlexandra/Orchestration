@@ -10,4 +10,9 @@
     <Folder Include="Repositories\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\POC.Orchestration.Events\POC.Orchestration.Events.csproj" />
+    <ProjectReference Include="..\POC.Orchestration.Infrastructure\POC.Orchestration.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>

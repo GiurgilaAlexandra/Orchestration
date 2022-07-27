@@ -12,3 +12,4 @@ C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Notification.
 C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Notification.Server\obj\Debug\net6.0\ref\POC.Orchestration.Notification.Server.dll
 C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Notification.Server\obj\Debug\net6.0\POC.Orchestration.Notification.Server.pdb
 C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Notification.Server\obj\Debug\net6.0\POC.Orchestration.Notification.Server.genruntimeconfig.cache
+C:\Users\mgiurgil\source\repos\POC.Orchestration\POC.Orchestration.Notification.Server\obj\Debug\net6.0\POC.Orchestration.Notification.Server.csproj.AssemblyReference.cache
