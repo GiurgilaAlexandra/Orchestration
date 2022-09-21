@@ -1,6 +1,6 @@
 ﻿namespace POC.Orchestration.Events
 {
-    public class OrderCreatedEvent
+    public class OrderShipmentCompletedEvent
     {
         public int OrderId { get; set; }
     }

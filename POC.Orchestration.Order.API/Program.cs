@@ -13,8 +13,9 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddMassTransit(x =>
 {
     x.ConfigureRabbitmq();
+    x.AddConsumer<CloseOrderOrchestrator>();
 });
-builder.Services.AddScoped<CreateOrderSaga>();
+builder.Services.AddScoped<CreateOrderOrchestrator>();
 
 var app = builder.Build();
 
