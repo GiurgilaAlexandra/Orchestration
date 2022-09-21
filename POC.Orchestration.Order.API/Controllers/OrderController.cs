@@ -8,8 +8,8 @@ namespace POC.Orchestration.Order.API.Controllers
     [Route("[controller]")]
     public class OrderController : ControllerBase
     {
-        private readonly CreateOrderSaga _createOrderSaga;
-        public OrderController(CreateOrderSaga createOrderSaga)
+        private readonly CreateOrderOrchestrator _createOrderSaga;
+        public OrderController(CreateOrderOrchestrator createOrderSaga)
         {
             _createOrderSaga = createOrderSaga;
         }
